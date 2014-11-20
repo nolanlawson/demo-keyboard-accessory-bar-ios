@@ -1,0 +1,1 @@
+Demo of broken  Keyboard.hideFormAccessoryBar in iOS 8.
